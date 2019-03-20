@@ -8,7 +8,7 @@
         <v-btn
           v-for="icon in icons"
           :key="icon.url"
-          class="mx-0 white--text"
+          class="mx-1 white--text"
           icon
           fab
           dark
