@@ -1,4 +1,4 @@
-# itunes-album-searcher
+# music-album-searcher
 
 ## Project setup
 ```
